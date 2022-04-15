@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart'; abstract
+import 'package:flutter/material.dart';
 
 class location extends StatefulWidget {
   location({Key? key}) : super(key: key);
